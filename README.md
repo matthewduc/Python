@@ -1,1 +1,1 @@
-# Sort and Search algorithms in python from CS 218 and Online
+# Sort and Search in python from CS 218 & Online
